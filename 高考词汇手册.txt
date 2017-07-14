@@ -3402,10 +3402,16 @@
 41	duty
 	1	n.	责任；义务
 
+42	dye
+	1	n.	染料
+	2	vt.	给……染色
+	3	vi.	被染色
+
 42	dynasty
 	1	n.	朝代，王朝
 
 43	each
+	1	adj.	各；各自的；每
 	1	pron.	各自的；每个，各个
 	2	adv.	各自的；各个
 
@@ -3416,11 +3422,11 @@
 	1	n.	耳朵
 
 46	early
-	1	adj.	早
-	2	adv.	早
+	1	adj.	早的；早期的；远古的
+	2	adv.	在早期；早；从前
 
 47	earn
-	1	vt.	赚；挣得
+	1	vt.	赚得;挣得;获得
 
 48	earnest
 	1	adj.	认真的，迫切的，诚恳的
@@ -3430,17 +3436,20 @@
 
 50	earth
 	1	n.	地球
+	2	vt.	用土掩盖
+
+50	on earth
+	1	phr.	(用于疑问词后加强语气）究竟，到底
 
 51	earthquake
 	1	n.	地震
 
 52	ease
-	1	n.	容易；不费力；安适
-	2	vt.	减轻，缓和；使安心
+	1	n.	安适，悠闲；容易；不费力
+	2	vt.	解除（或减轻）......的痛苦（或负担等）
 
 53	east
-	1	adj.	东；东方
-	2	adv.	东；东方
+	1	adj.	东；东方（的）
 
 54	eastern
 	1	adj.	东部的
@@ -3449,52 +3458,58 @@
 	1	adv.	向东
 
 56	easy
-	1	adj.	容易的
+	1	adj.	容易的;舒适的；安逸的；随和的
 
 57	eat
-	1	v.	吃
+	1	v.	吃；侵蚀；毁坏
+
+58	e-book
+	1	n.	电子书籍
 
 58	economic
 	1	adj.	经济的
 
 59	economical
-	1	adj.	节约的，节俭的
+	1	adj.	节约的，省俭的
 
 60	economy
-	1	n.	经济
+	1	n.	经济（情况）；节约（措施）
+
+60	economy class
+	1	phr.	经济舱位
 
 61	ecosystem
 	1	n.	生态系（统）
 
 62	edge
-	1	n.	边缘；刀刃
+	1	n.	边，边缘；刀口，刃
 
 63	edit
-	1	vt.	编辑：
+	1	vt.	编辑;修改;删节
 
 64	edition
-	1	n.	版本
+	1	n.	版本；版（次）
 
 65	editor
-	1	n.	编辑
+	1	n.	编者；编辑
 
 66	editorial
 	1	adj.	编辑的；社论的
 
 67	educate
-	1	vt.	教育
+	1	vt.	教育；培养;训练
 
 68	education
 	1	n.	教育
 
 69	effect
-	1	n.	效果；结果；影响
+	1	n.	结果；影响；效力，作用
 
 70	effective
-	1	adj.	有效的
+	1	adj.	有效的；生效的
 
 71	efficient
-	1	adj.	高效的；有能力的
+	1	adj.	效率高的；有能力的
 
 72	effort
 	1	n.	努力
@@ -3503,7 +3518,7 @@
 	1	abbr.	(exempli gratia) 例如（ = for example）
 
 74	egg
-	1	n.	蛋；鸡蛋
+	1	n.	(鸟类的）蛋，鸡蛋；（鱼、昆虫 等的）卵
 
 75	eh
 	1	interj.	啊；嗯
@@ -3511,12 +3526,13 @@
 76	either
 	1	adv.	也（用于否定句或否定词组后加强语气）
 	2	adj.	（两者之中）任一的
+	3	pron.	(两者之一）任何一个
 
 77	elder
-	1	adj.	年龄较大的；年长的
+	1	adj.	年龄较大的；资格较老的
 
 78	elderly
-	1	adj.	年老的；晚年的
+	1	adj.	较老的；近老年的；晚年的
 
 79	elect
 	1	vt.	选举
@@ -3525,10 +3541,10 @@
 	1	adj.	电的
 
 81	electrical
-	1	adj.	电的；与电有关的
+	1	adj.	电的；与（用）电有关的
 
 82	electrician
-	1	n.	电机师；电工
+	1	n.	电气专家；电工；电机技术员
 
 83	electricity
 	1	n.	电
@@ -3543,13 +3559,13 @@
 	1	adj.	（举止、服饰等）优美的，文雅的；（文体、语言等）典雅的
 
 87	element
-	1	n.	成分；元秦
+	1	n.	元素；成分;要素
 
 88	elementary
 	1	adj.	初级的；基本的
 
 89	elephant
-	1	n.	大象
+	1	n.	象
 
 90	elevator
 	1	n.	电梯
@@ -3559,23 +3575,26 @@
 
 92	else
 	1	adj.	其他的；别的
-	2	adv.	其他；否则；另外[else用于其所修饰的词和代词之后时，则带所有格的记号]
+	2	adv.	其他，另外
 
 93	elsewhere
-	1	adv.	在别处
+	1	adv.	在别处；到别处
 
 94	email
 	1	n.	电子邮件
-	2	vt.	给…发电子邮件
+	2	vt.	给……发电子邮件
 
 95	embarrass
-	1	vt.	使局促不安，使为难
+	1	vt.	使局促不安；使尴尬
 
 96	emerge
-	1	vi.	出现，（问题的）发生，显露
+	1	vi.	浮现，出现;（问题等）发生，显露
 
 97	emergeney
-	1	n.	急诊；紧急情况
+	1	n.	紧急情况;急诊
+
+97	emission
+	1	n.	( 光、热、液体、气味等的）发出，散发
 
 98	emotion
 	1	n.	情感，激动
@@ -3584,10 +3603,10 @@
 	1	n.	皇帝；（帝国的）君主
 
 100	emphasis
-	1	n.	强调；着重（[复] emphases）
+	1	n.	强调；着重；重点
 
 101	emphasize
-	1	vt.	强调
+	1	vt.	强调，着重；加强… 的语气
 
 102	empire
 	1	n.	帝国
@@ -3599,37 +3618,38 @@
 	1	n.	雇员
 
 105	employer
-	1	n.	雇主
+	1	n.	雇用者;雇主
 
 106	empty
 	1	adj.	空的
-	2	v.	使…成为空的；流空
+	2	v.	使空；成为空的；使排出；流出
 
 107	enable
 	1	vt.	使能够
 
 108	enclose
-	1	vi.	围住，围起；附上；封入
+	1	vi.	围住，包住；把…… 装入信封等;封入，附入;装有
 
 109	encounter
-	1	v.	遭遇，邂逅
-	2	n.	遭遇，偶然碰见
+	1	vt.	意外地遇见；与……邂逅，遭到
+	2	n.	意外的相见；邂逅，遭遇
 
 110	encourage
 	1	vt.	鼓励；激励
 
 111	end
-	1	v.	结束；结尾；（与in连用）造成…结果；
-	2	n.	结束；结尾；末端
+	1	n.	末端，尽头；结束，末尾
+	2	v.	结束，终止
 
 112	endurance
-	1	n.	持久（力）
+	1	n.	持久（力）；耐久（性）；忍耐（力）
 
 113	endure
-	1	v.	忍耐，忍受
+	1	vt.	忍受（痛苦、困难等）
+	1	vi.	持久，持续；忍受，忍耐
 
 114	enemy
-	1	n.	敌人；仇敌
+	1	n.	敌人,仇敌
 
 115	energetic
 	1	adj.	精力充沛的
