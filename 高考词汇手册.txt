@@ -4490,9 +4490,8 @@
 50	earth
 	1	n.	地球；陆地；土
 	2	vt.	用土掩盖
-
-50	on earth
-	1	phr.	(用于疑问词后加强语气）究竟，到底
+	=======
+	1	on earth	(用于疑问词后加强语气）究竟，到底
 	=======
 
 51	earthquake
@@ -4538,9 +4537,8 @@
 
 60	economy
 	1	n.	经济（情况）；节约（措施）
-
-60	economy class
-	1	phr.	经济舱位
+	=======
+	1	economy class	经济舱位
 	=======
 
 61	ecosystem
