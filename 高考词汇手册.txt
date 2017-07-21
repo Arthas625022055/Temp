@@ -13440,7 +13440,7 @@
 	=======
 
 81	someone
-	1	pron.	有人；某人
+	1	pron.	某人；有人
 	=======
 
 82	something

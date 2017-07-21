@@ -1,6 +1,9 @@
 
 Temp版
 
+干扰项
+someone：有人；某人 => 某人；有人
+
 数字/缩写/等价词
 e.g.：例如（ = for example）
 etc.：等等（常读作and so forth）
