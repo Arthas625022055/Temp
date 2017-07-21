@@ -1,0 +1,133 @@
+
+Temp版
+
+数字/缩写/等价词
+e.g.：例如（ = for example）
+etc.：等等（常读作and so forth）
+kilogram：公斤，千克（略作kg）
+kilometer：（长度单位，等于1000米，略作km）
+lab：实验室（laboratory的缩写）
+teenager：（13~19岁的）青少年
+UFO：不明飞行物，飞碟（unidentified flying object的首字母组合）
+
+词组：删除了！
+vice versa：反过来也一祥；反之亦然
+sake：for one's own sake 为了自己的利益
+
+等价词：删除了！
+yoghourt，yoghurt，yogurt：酸乳，酸奶
+zip：〔美〕邮政编码（= zip code）
+
+词性错误：检查类似的情况，应该会有很多
+well-known：adj.有名的；众做周知的
+south：n.,adj.南；南方（的）
+west：n.,adj.西；西方（的）
+
+特殊情况：删除了！
+X-ray：X光的，X射线的，使用X射线的
+
+特殊情况：修改了！
+empty：使…空；使…成为空的；使排出；流出
+
+补充复数：删除了括号和释义
+passer-by：（复）passers-by 这个是在词形里的！！！检查类似的情况，应该会有很多
+weatherman：〔复〕weathermen
+whale：[复数whales或whale]
+wife：（pl.）wives
+woman：（pl.）women
+zero：[复数zeros或zeroes]
+
+作为复数：删除了括号，但未删除对应的释义
+regard：〔〜s〕问候
+relation：〔~ s〕往来
+saving：〔~ s〕储蓄（金）
+scale：〔常作〜s〕天平
+score：（单复同）二十个
+short：〔~ s〕宽松运动短裤
+spirit：〔〜s〕心境，情绪
+stair：〔常作~ s〕楼梯
+stand：〔常作〜S〕看台
+surrounding：〔〜s〕周围的事物
+sweet：〔〜s〕糖果
+tear：〔常作〜s〕眼泪，泪珠
+thank：〔〜s〕感谢；谢意
+trouble：〔常作〜s〕纷争，动乱
+wage：[常作 ~s] 工资
+work：〔〜s〕（用作单或复）工厂
+wrapping：（常用复数）包装材料
+
+特殊标签
+length：〔不可数〕长，长度；〔可数〕时间的长短；
+man：〔不用冠词〕人类
+percent：〔与基数词连用〕百分之…的
+
+词性
+alone：仅仅（用于名词或代词后）
+gender：（名词、代词等的）性
+there：（作引导词，与be等动词连用，表“有” 、“存在”之意）
+used：惯常（仅用过去时，后接不定式，表示过去的事实或状态）
+
+过去时|过去式|过去分词|现在时|现在进行时|现在分词|将来时
+could：能够（can的过去时）
+should：shall的过去式，（表示过去将来时）将，将会
+should：shall的过去式，（表示过去将来时）将，将会
+would：[w ill的过去式〕；〔表示过去将来时〕将，将会；〔表示意愿〕愿，要
+thought：[think的过去式和过去分词]
+
+比较级/最高级
+more	更多的，较多的（many和much的比较级）
+more	更（用于构成两个音节以上的形容词或副词比较级）
+most	最多的（many和much的最高级）
+most	最（much的最高级，用于构成形容词或副词的最高级）
+
+格
+I：〔主格〕我
+me：我（宾格）
+my：（I的所有格）我的
+mine：（I的物主代词绝对形式）我的（所有物）
+myself：（反身代词）我自己
+you：[主格或宾格]你；你们
+your：[you的所有格]你的；你们的
+yours：[you的物主代词绝对形式]你的；你们的
+yourself：[反身代词]你自己
+yourselves：[反身代词]你们自己
+he：（主格）他
+him：（he的宾格）他
+his：（he的所有格）他的；（he的物主代词绝对形式）他的（所有物）
+himself：（反身代词）他自己
+she：[主格]她
+her：（she的宾格）她；（she的所有格）她的
+hers：（she的物主代词绝对形式）她的（所有物）
+herself：（反身代词）她自己
+it：（主格或宾格）它
+its：（it的所有格）它的
+itself：（反身代词）它自己
+we：我们（主格）
+us：[we的宾格]我们
+our：（we的所有格）我们的
+ours：（物主代词）我们的
+ourselves：（反身代词）我们自己
+they：[主格]他们；她们；它们
+them：[they的宾格]他们；她们；它们
+their：[they的所有格]他们的；她们的；它们的
+theirs：[they的物主代词绝对形式]他们的（所有物）
+themselves：[反身代词]他们自己；她们自己；它们自己
+who：谁
+whom：（who 的宾格）谁
+whose：谁的
+whoever：无论谁
+what：（疑问代词）什么，什么样的人（事、物等）
+whatever：无论什么；任何…的事物
+whatever：任何…的；无论怎么的
+
+冠词固定搭配
+Internet：〔the〜〕〔计〕因特网
+Olympics：〔the〜〕奥林匹克运动会
+press：〔the〜〕〔总称〕报刊
+rest：〔the ~〕其余，剩余部分
+
+介词固定搭配
+confess：承认（与to连用）
+reflect：反射；反映；深思，考虑，反省（on， upon）
+subject：使服从；使经受；使遭受；使易受（to）
+used：习惯于…的（to）
