@@ -204,7 +204,8 @@
 0156.	bicycle	n.	自行车
 0157.	big	adj.	大的
 0001.	bike	n.	自行车
-0158.	bill	n.	帐单;钞票，纸币；
+0158.	bill	n.	帐单
+0158.	bill	n.	钞票，纸币
 0159.	bin	n.	箱子；垃圾箱
 0160.	bird	n.	鸟
 0161.	birthday	n.	生日
@@ -281,7 +282,7 @@
 0216.	by	prep.	（用于被动语态）被
 0216.	by	prep.	（表示方法，手段）用，由
 0216.	by	prep.	（指交通工具等）乘（车）
-0217.	bye	int.	再见
+0217.	bye	interj.	再见
 0218.	cabbage	n.	卷心菜
 0219.	cake	n.	蛋糕；糕点；饼
 0001.	calculate	v.	计算
@@ -294,7 +295,7 @@
 0222.	camera	n.	照相机
 0223.	camp	n.	（夏令）营；野营
 0224.	can	aux.	可能；能够；可以；会
-0224.   can v.    可能；能够；可以；会
+0224.	can	v.	可能；能够；可以；会
 0224.	can	n.	（美）罐头；罐子
 0225.	Canada	n.	加拿大
 0226.	Canadian	adj.	加拿大的
@@ -554,7 +555,7 @@
 0430.	divide	v.	分，划分
 0430.	divide	v.	（算数用语）除
 0431.	do	v.	做，干（用以构成疑问句及否定句）
-0431.   do  aux.  做，干（用以构成疑问句及否定句）
+0431.	do	aux.	做，干（用以构成疑问句及否定句）
 0432.	doctor	n.	医生
 0433.	dog	n.	狗
 0434.	dollar	n.	元（美国、加拿大、澳大利亚等国货币单位）
@@ -875,8 +876,8 @@
 0685.	happen	v.	（偶然）发生；碰巧
 0686.	happily	adv.	幸福地；快乐地，高兴地
 0687.	happiness	n.	幸福，快乐
-0001.	happy	adj.	幸福的；快乐的，高兴的
-0688.	harbor	n.	港口
+0688.	happy	adj.	幸福的；快乐的，高兴的
+0001.	harbor	n.	港口
 0689.	hard	adj.	硬的；困难的；艰难的
 0689.	hard	adv.	努力地；使劲；猛烈地
 0690.	hardly	adv.	几乎不
@@ -899,7 +900,7 @@
 0705.	heavily	adv.	沉重地；大量地
 0706.	heavy	adj.	重的
 0707.	height	n.	高度
-0708.	hello	int.	喂；你好
+0708.	hello	interj.	喂；你好
 0709.	help	v.	帮助，帮忙
 0709.	help	n.	帮助，帮忙
 0710.	helpful	adj.	有帮助的，有益的
@@ -2087,11 +2088,11 @@
 1658.	welcome	n.	欢迎
 1658.	welcome	adj.	受欢迎的
 1658.	welcome	v.	欢迎
-1658.	welcome	int.	欢迎
+1658.	welcome	interj.	欢迎
 1659.	well	adj.	健康的
 1659.	well	adv.	好地，令人满意地；完全地
 1659.	well	n.	井
-1659.	well	int.	（表示同意，惊讶等）好，好吧；那么
+1659.	well	interj.	（表示同意，惊讶等）好，好吧；那么
 1660.	west	n.	西部，西方
 1660.	west	adj.	西方的；向西的
 1661.	western	adj.	西方的
@@ -2174,7 +2175,7 @@
 1717.	yogurt	n.	酸奶
 1718.	young	adj.	年轻的
 1719.	zero	n.	零；零度；零点
-1719.	zero	nurn.	零
+1719.	zero	num.	零
 1720.	zoo	n.	动物园
 
 词组（Phrases	and	Expressions）
@@ -2242,16 +2243,15 @@
 0060.	be	strict	with	对…严格
 0061.	be	surprised	at	对…感到惊奇
 0062.	be	thankful	to	sb.	对某人很感激
-0001.	be	used	to	（doing）	习惯于
-0063.	be	similar	to	与…类似
+0063.	be used to （doing）	习惯于
+0001.	be similar to	与…类似
 0064.	because	of	由于
 0065.	belong	to	属于
 0066.	big	deal	大人物，了不起的事
 0067.	both…and…	两者都
 0068.	break	down	发生故障，损坏，衰弱下来
-0001.	break	into	闯入；破门而入
-0069.	break	down	发生故障，损坏，衰弱下来
-0070.	by	bus/train/plane	乘公共汽车/火车/飞机
+0069.	break	into	闯入；破门而入
+0070.	by bus/train/plane	乘公共汽车/火车/飞机
 0071.	by	oneself	亲自
 0072.	by	the	way	顺便说；顺便问一下
 0073.	calm	down	使平静
