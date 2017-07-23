@@ -2174,7 +2174,7 @@
 1717.	yogurt	n.	酸奶
 1718.	young	adj.	年轻的
 1719.	zero	n.	零；零度；零点
-1719.	zero	num.	零
+1719.	zero	nurn.	零
 1720.	zoo	n.	动物园
 
 词组（Phrases	and	Expressions）
@@ -2253,9 +2253,7 @@
 0069.	break	down	发生故障，损坏，衰弱下来
 0070.	by	bus/train/plane	乘公共汽车/火车/飞机
 0071.	by	oneself	亲自
-0001.	by	plane	乘飞机
 0072.	by	the	way	顺便说；顺便问一下
-0001.	by	train	乘火车
 0073.	calm	down	使平静
 0074.	care	for	照顾；喜欢
 0075.	catch (a) cold	着凉；伤风
