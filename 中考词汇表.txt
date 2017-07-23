@@ -165,7 +165,7 @@
 0126.	bath	n.	洗澡
 0127.	battery	n.	电池
 0128.	battle	n.	战斗；战役
-0129.	be	v.	是；成为（原形，其人称和时态形式有am，is，are，was，were，being，been）
+0129.	be	v.	是；成为
 0130.	beach	n.	海滨，海滩
 0131.	bear	n.	熊
 0132.	beat	v.	敲打；跳动
@@ -325,7 +325,7 @@
 0242.	cause	v.	促使，引起，使发生
 0243.	cave	n.	洞，穴；地窖
 0244.	celebrate	v.	庆祝
-0245.	cent	n.	美分（100	 cents = 1 dollar）
+0245.	cent	n.	美分
 0246.	centre	n.	中心，中央
 0246.	center	n.	中心，中央
 0247.	century	n.	世纪，百年
@@ -485,7 +485,7 @@
 0367.	dancer	n.	跳舞者，舞蹈演员
 0368.	danger	n.	危险
 0369.	dangerous	adj.	危险的
-0370.	dare	v.	（后接不带to的不定式，主要用于疑问，否定或疑问句）敢，敢于
+0370.	dare	v.	敢，敢于
 0371.	dark	n.	黑暗；暗处；深色
 0371.	dark	adj.	黑暗的；暗淡的；深色的
 0372.	date	n.	日期；约会
@@ -831,7 +831,7 @@
 0648.	German	adj.	德国的；德国人的；德语的
 0649.	Germany	n.	德国
 0650.	get	v.	成为；变得；得到；到达
-0650.	get	v.	（用于have或got短语中）具有
+0650.	get	v.	具有
 0651.	gift	n.	赠品；礼物
 0652.	girl	n.	女孩
 0653.	give	v.	给；递给；付出；给予
@@ -1109,7 +1109,7 @@
 0870.	light	n.	光；灯光
 0870.	light	adj.	明亮的；轻的；浅色的
 0871.	like	v.	喜欢；喜爱
-0871.	like	v.	想要（should/would like）
+0871.	like	v.	想要
 0871.	like	prep.	像，跟…一样
 0872.	likely	adj.	很可能的
 0873.	limited	adj.	有限的，限制的
@@ -1406,7 +1406,7 @@
 1095.	patient	adj.	耐心的
 1096.	pay	v.	付钱，给…报酬
 1096.	pay	n.	工资
-0197.	P.E.	abbr.	体育
+1097.	P.E.	abbr.	体育
 1098.	peace	n.	和平
 1099.	pear	n.	梨
 1100.	pearl	n.	珍珠
@@ -1751,7 +1751,7 @@
 1391.	skin	n.	皮肤
 1392.	skirt	n.	女裙
 1393.	sky	n.	天空
-1394.	sleep	v.	睡觉，
+1394.	sleep	v.	睡觉
 1394.	sleep	n.	睡眠
 1395.	slow	adj.	慢慢的；缓慢的
 1396.	slowly	adv.	慢慢地；缓慢地
@@ -1902,7 +1902,7 @@
 1507.	team	n.	队，组
 1508.	tear	n.	眼泪
 1509.	technology	n.	技术
-1510.	teenager	n.	（13-19岁的）青少年，十几岁的少年
+1510.	teenager	n.	青少年，十几岁的少年
 1511.	telephone	n.	电话；电话机
 1511.	telephone	v.	打电话
 1512.	television	n.	电视
@@ -2114,7 +2114,7 @@
 1669.	white	adj.	白色的
 1670.	who	pron.	谁
 1671.	whole	adj.	整个的
-1672.	whom	pron.	谁（who的宾格）
+1672.	whom	pron.	谁
 1673.	whose	pron.	谁的
 1674.	why	adv.	为什么
 1675.	wide	adj.	宽的；广泛的
@@ -2178,16 +2178,16 @@
 1719.	zero	num.	零
 1720.	zoo	n.	动物园
 
-词组（Phrases	and	Expressions）
-0001.	a	bit（of）	有一点儿
-0002.	above	all	首先，尤其； 最重要的是
+0001.	a	bit	（of）	有一点儿
+0002.	above	all	首先，尤其；最重要的是
 0003.	a	couple	of	两个；几个
 0004.	a	kind	of	一种；一类
-0005.	a	lot	of（lots	of）	许多
+0005.	a	lot	of	许多
+0005.	lots	of	许多
 0006.	a	pair	of	一双；一副
 0007.	a	piece	of	一（块，张，片，件）
 0008.	according	to	按照；根据
-0009.	add…to…	加上
+0009.	add	…	to	…	加上
 0010.	after	all	终究；毕竟
 0011.	agree	with	sb.	同意某人的意见
 0012.	all	over	到处
@@ -2196,14 +2196,18 @@
 0015.	and	so	on	等等
 0016.	apologize	to	sb.	for	sth.	为某事向某人道歉
 0017.	arrive	at	/	in	a	place	到达某地
-0018.	as…as	像…一样；如同
+0018.	as	…	as	像…一样；如同
 0019.	as	soon	as	一…就
 0020.	as	well	也；又
 0021.	ask	for	请求；寻求
-0022.	at	breakfast	/	lunch	/	supper	早/午/晚餐时
-0023.	at	first	/	last	起先；开始的时候/最后；终于
+0022.	at	breakfast	早餐时
+0022.	at	lunch	午餐时
+0022.	at	supper	晚餐时
+0023.	at	first	起先；开始的时候
+0023.	at	last	最后；终于
 0024.	at	home	在家（里）
-0025.	at	least	/	most	至少/至多
+0025.	at	least	至少
+0025.	at	most	至多
 0026.	at	once	立刻；马上
 0027.	at	present	现在，目前
 0001.	at	school	在学校，在上课
@@ -2226,15 +2230,16 @@
 0044.	be	famous	for	以…而著名
 0045.	be	fond	of	爱好
 0046.	be	full	of	充满
-0047.	be	good	/	poor	at	擅长于/对…比较差
+0047.	be	good	at	擅长于…
+0047.	be	poor	at	对…比较差
 0048.	be	interested	in	对…感兴趣
 0049.	be	keen	on	喜爱
 0050.	be	late	for	…迟到
-0051.	be	located	（in	/	on	/	at）	位于
+0051.	be	located	(in	/	on	/	at)	位于
 0052.	be	made	of	由…制成
 0053.	be	made	up	of	由…组成
 0054.	be	pleased	with	对…满意
-0001.	be	poor	at	在…	方面比较差
+0001.	be	poor	at	在…方面比较差
 0055.	be	proud	of	为…而感到自豪
 0056.	be	ready	for	为…作准备
 0057.	be	responsible	for	对…负责任
@@ -2243,37 +2248,39 @@
 0060.	be	strict	with	对…严格
 0061.	be	surprised	at	对…感到惊奇
 0062.	be	thankful	to	sb.	对某人很感激
-0063.	be used to （doing）	习惯于
-0001.	be similar to	与…类似
+0063.	be	used	to	（doing）	习惯于
+0001.	be	similar	to	与…类似
 0064.	because	of	由于
 0065.	belong	to	属于
 0066.	big	deal	大人物，了不起的事
-0067.	both…and…	两者都
+0067.	both	…	and	…	两者都
 0068.	break	down	发生故障，损坏，衰弱下来
 0069.	break	into	闯入；破门而入
-0070.	by bus/train/plane	乘公共汽车/火车/飞机
+0070.	by	bus	乘公共汽车
+0070.	by	train	乘火车
+0070.	by	plane	乘飞机
 0071.	by	oneself	亲自
 0072.	by	the	way	顺便说；顺便问一下
 0073.	calm	down	使平静
 0074.	care	for	照顾；喜欢
-0075.	catch (a) cold	着凉；伤风
-0076.	change	one’s	mind	改变主意
+0075.	catch	（a）	cold	着凉；伤风
+0076.	change	one's	mind	改变主意
 0077.	check	in	办理登机；登记（入住等）
 0078.	come	from	出生于；来自
 0079.	come	on	快；走吧；跟我来
 0080.	come	to	an	end	结束
 0081.	come	true	实现
 0082.	communicate	with	与…交流
-0083.	compete	with...	与…竞争；与…攀比
+0083.	compete	with	与…竞争；与…攀比
 0084.	complain	about	抱怨；投诉
 0085.	consist	of	由…组成
-0086.	cut	down	砍倒；	削减
+0086.	cut	down	砍倒；削减
 0087.	deal	with	处理
 0001.	department	store	百货商店
 0088.	depend	on	依靠，依赖
 0089.	die	of	因…（病）而死
 0090.	do	harm	to	对…有害，损害
-0091.	do	one’s	best	尽最大努力
+0091.	do	one's	best	尽最大努力
 0092.	do	sb.	a	favour	帮某人忙
 0093.	do	some	shopping	买东西
 0094.	dream	of	想到
@@ -2282,7 +2289,7 @@
 0097.	encourage	sb.	to	do	sth.	鼓励某人做某事
 0098.	enjoy	oneself	过得愉快
 0099.	fall	asleep	入睡
-0100.	far	away（from）	（离）…遥远
+0100.	far	away	（from）	（离）…遥远
 0101.	fill	in	填充；填写
 0102.	find	out	找出；查明；了解
 0103.	for	example	例如
@@ -2290,7 +2297,7 @@
 0105.	for	the	first	time	第一次
 0106.	for	the	time	being	暂时；眼下
 0107.	from	time	to	time	不时，有时
-0108.	get	along	/	on（with）	进展；与…相处
+0108.	get	along	/	on	（with）	进展；与…相处
 0109.	get	into	the	habit	of	养成…的习惯
 0110.	get	off	下车
 0111.	get	on	上车
@@ -2313,7 +2320,7 @@
 0128.	go	over	复习；仔细地再读一遍
 0129.	go	shopping	去购物
 0130.	go	sightseeing	去观光
-0131.	go	to（the）hospital	去医院（看病）
+0131.	go	to	（the）	hospital	去医院（看病）
 0132.	go	to	bed	就寝
 0133.	go	to	college	上大学
 0134.	go	to	school	上学
@@ -2338,7 +2345,7 @@
 0153.	here	and	there	到处
 0154.	hold	a	meeting	举行会议
 0155.	hold	on	等一等（别挂电话）
-0156.	hold	one’s	breath	屏住呼吸
+0156.	hold	one's	breath	屏住呼吸
 0157.	huge	amounts	of	大量的
 0158.	in	a	hurry	匆忙
 0159.	in	a	minute	一会儿
@@ -2352,8 +2359,8 @@
 0167.	in	favour	of	赞成
 0168.	in	front	of	在…前面
 0169.	in	hospital	住院
-0170.	in	one’s	fifties	在某人五十多岁时
-0171.	in	one’s	opinion	根据某人的看法
+0170.	in	one's	fifties	在某人五十多岁时
+0171.	in	one's	opinion	根据某人的看法
 0172.	in	order	to	为了
 0173.	in	other	words	换句话说
 0174.	in	return	作为回报
@@ -2371,18 +2378,20 @@
 0186.	keep	a	diary	记日记
 0187.	keep	doing	sth.	继续做某事
 0188.	keep	fit	保持健康
-0189.	keep…from	阻止；使…免于
-0190.	keep	in	touch（with）	（与…）保持联系
+0189.	keep	…	from	阻止；使…免于
+0190.	keep	in	touch	（with）	（与…）保持联系
 0191.	keep	off	阻挡；不让…接近
 0192.	keep	quiet	保持安静
 0193.	keep	sb.	busy	让某人忙个不停
 0194.	laugh	at	嘲笑
 0195.	lay	the	table	（饭前）摆好餐具
-0196.	learn…from	从…中学到，向…学习
-0197.	leave（secondary）school	（中学）毕业
+0196.	learn	…	from	从…中学到，向…学习
+0197.	leave	school	毕业
+0197.	leave	secondary	school	中学毕业
 0198.	leave	a	message	留个口信
 0199.	leave	for	动身去
-0200.	less	/	more	than	少于/多于
+0200.	less	than	少于
+0200.	more	than	多于
 0201.	listen	to	听…（讲话）
 0202.	live	on	靠…为生
 0203.	look	after	照料；照顾
@@ -2392,8 +2401,8 @@
 0207.	look	like	看上去像；显得
 0208.	look	out	注意，留神
 0209.	look	up	查寻；抬头看
-0210.	lose	one’s	life	丧生
-0211.	lose	one’s	way	迷路
+0210.	lose	one's	life	丧生
+0211.	lose	one's	way	迷路
 0212.	lose	temper	发脾气
 0213.	lose	weight	减肥
 0214.	make	a	decision	做出决定
@@ -2407,25 +2416,26 @@
 0222.	make	money	挣钱；赚钱
 0223.	make	progress	取得进步
 0224.	make	the	bed	整理床铺
-0225.	make	up	one’s	mind	下决心
+0225.	make	up	one's	mind	下决心
 0226.	mobile	phone	手机
 0227.	next	to	紧挨着；紧靠着
-0228.	no	longer	/	not…any	longer	不再
-0229.	not…at	all	（用来加强语气）一点也不，根本不
+0228.	no	longer	不再
+0228.	not	…	any	longer	不再
+0229.	not	…	at	all	（用来加强语气）一点也不，根本不
 0230.	now	and	then	/	again	时而；偶而
 0231.	of	course	当然
 0232.	on	average	平均；通常
 0233.	on	business	有事，出差
 0234.	on	foot	步行；走路
 0235.	on	holiday	在休假
-0236.	on	one’s	side	在某人一边
+0236.	on	one's	side	在某人一边
 0237.	on	the	other	hand	在另一方面
 0238.	on	the	phone	在听电话
-0239.	on	the	/	one’s	way（to）	在去…的路上
+0239.	on	the	/	one's	way	（to）	在去…的路上
 0240.	on	time	准时
 0241.	on	weekdays	在工作日
 0242.	once	every	four	years	每四年一次
-0243.	once	more/again	再次
+0243.	once	more	/	again	再次
 0244.	one	after	another	一个接一个，连续地
 0245.	out	of	从…里出来；缺乏
 0246.	out	of	date	过时
@@ -2439,11 +2449,11 @@
 0254.	plenty	of	大量的，充足的
 0255.	point	out	指出
 0256.	praise	sb.	for	sth.	为某事表扬某人
-0257.	prefer...to	（比起…来）更喜欢
+0257.	prefer	…	to	（比起…来）更喜欢
 0258.	prepare	for	准备
-0259.	prevent…from	阻止…某人做某事
-0260.	protect…from	保护…免受
-0261.	provide…with	提供
+0259.	prevent	…	from	阻止…某人做某事
+0260.	protect	…	from	保护…免受
+0261.	provide	…	with	提供
 0262.	put	off	延期
 0263.	put	on	穿；戴上；上演
 0264.	put	out	扑灭
@@ -2452,12 +2462,12 @@
 0267.	rely	on	依靠
 0268.	run	away	逃跑
 0269.	run	out	of	用完，耗尽
-0270.	save	one’s	life	挽救某人的生命
+0270.	save	one's	life	挽救某人的生命
 0271.	search	for	搜寻；搜查
-0272.	see…off	为…送行
+0272.	see	…	off	为…送行
 0273.	sell	out	售完
 0274.	shake	hands	with	与…握手
-0275.	share…with	与…分享
+0275.	share	…	with	与…分享
 0276.	show	off	炫耀
 0277.	show	sb.	around	带某人参观
 0278.	shut	up	住口
@@ -2466,7 +2476,7 @@
 0281.	some	day	将来有一天
 0282.	sooner	or	later	迟早
 0283.	stay	up	熬夜
-0284.	stop…from	阻止…做
+0284.	stop	…	from	阻止…做
 0285.	such	as	例如
 0286.	set	out	动身，出发，着手做
 0287.	shopping	mall	大商场，大型购物中心
@@ -2481,26 +2491,28 @@
 0296.	take	hold	of	抓住
 0297.	take	notes	记笔记
 0298.	take	off	脱掉（衣物等）；起飞
-0299.	take	one’s	advice	听从某人劝告
+0299.	take	one's	advice	听从某人劝告
 0300.	take	out	取出
 0301.	take	part	in	参加
 0302.	take	place	发生；举行
 0303.	take	the	place	of	取代
 0304.	take	up	开始从事
 0305.	talk	about	谈到
-0306.	talk	to	/	with	sb	与某人谈话
-0307.	tell…from	区别；分辨
+0306.	talk	to	/	with	sb.	与某人谈话
+0307.	tell	…	from	区别；分辨
 0308.	tell	a	lie	说谎
-0309.	the	same…as	与…同样
+0309.	the	same	…	as	与…同样
 0310.	the	week	after	next	下下周
 0311.	think	about	考虑（做某事的可行性）
 0312.	think	of	想起；想到
 0313.	think	over	仔细考虑
 0314.	throw	away	扔掉
-0315.	to	one’s	joy	/	surprise	使某人高兴/惊奇的是
-0316.	too…to	太…以至不能
+0315.	to	one's	joy	使某人高兴的是
+0315.	to	one's	surprise	使某人惊奇的是
+0316.	too	…	to	太…以至不能
 0317.	try	on	试穿
-0318.	turn	down/	up	（把音量）调低/高
+0318.	turn	down	（把音量）调低
+0318.	turn	up	（把音量）调高
 0319.	turn	into	变成
 0320.	turn	off	关掉（电灯，电视，收音机等）
 0321.	turn	on	开，旋开（电灯，电视，收音机等）
@@ -2509,11 +2521,11 @@
 0324.	used	to	（do）	过去常常
 0325.	wait	for	等候；等待
 0326.	wake	up	醒来；叫醒
-0327.	what’s	more	而且
+0327.	what's	more	而且
 0328.	with	great	care	非常小心
 0329.	with	pleasure	愉快地
 0330.	with	the	help	of	在…的帮助下
 0331.	work	out	做出；算出；制定出
 0332.	worry	about	为…而担心
-0333.	would	like	/	love（to）	想要（表示喜欢，愿意）很想；很愿意
+0333.	would	like	/	love	（to）	想要（表示喜欢，愿意）很想；很愿意
 0334.	would	rather	宁愿，宁可

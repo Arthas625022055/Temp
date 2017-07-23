@@ -1,0 +1,161 @@
+删除不规则变化形态
+0113.	bad（worse，worst）
+0132.	beat（beat，beaten）
+0136.	become（became，become）
+0141.	begin（began，begun）
+0153.	best（good和well的最高级）
+0154.	better（good和well的比较级）
+0163.	bite（bit，bitten/bit）
+0170.	blow（blew，blown）
+0179.	born（动词bear的过去分词）
+0190.	break（broke，broken）
+0196.	bring（brought，brought）
+0203.	build（built，built）
+0206.	burn（burned，burned；burnt，burnt）
+0215.	buy（bought，bought）
+0224.	can（could）
+0241.	catch（caught，caught）
+0268.	child（复children）
+0275.	choose（chose，chosen）
+0306.	come（came，come）
+0340.	cost（cost，cost）
+0360.	cut（cut，cut）
+0376.	deal（dealt，dealt）
+0412.	dig（dug，dug）
+0431.	do（did，done）
+0439.	draw（drew，drawn）
+0440.	dream（dreamt，dreamt；dreamed，dreamed）
+0442.	drink（drank，drunk）
+0443.	drive（drove，driven）
+0461.	eat（ate，eaten）
+0537.	fall（fell，fallen）
+0542.	far（比较级farther，最高级farthest；比较级further，最高级furthest）
+0554.	feed（fed，fed）
+0555.	feel（felt，felt）
+0563.	fight（fought，fought）
+0569.	find（found，found）
+0579.	fit（fit，fit；fitted，fitted）
+0588.	fly（flew，flown）
+0596.	foot（复feet）
+0604.	forget（forgot，forgot/forgotten）
+0613.	freeze（froze，frozen）
+0650.	get（got，got/gotten）
+0653.	give（gave，given）
+0656.	go（went，gone）
+0660.	good（比较级better，最高级best）
+0673.	grow（grew，grown）
+0684.	hang（hung，hung）
+0684.	hang（hanged，hanged）
+0695.	have（had，had）
+0702.	hear（heard，heard）
+0715.	hide（hid，hidden）
+0720.	hit（hit，hit）
+0722.	hold（held，held）
+0752.	hurt（hurt，hunt）
+0819.	keep（kept，kept）
+0833.	knife（复knives）
+0835.	know（knew，known）
+0851.	lay（laid，laid）
+0853.	lead（led，led）
+0854.	learn（learnt，learnt；learned，learned）
+0855.	leave（left，left）
+0859.	lend（lent，lent）
+0862.	let（let，let）
+0867.	lie（lay，lain）
+0868.	life（复lives）
+0881.	little（比较级less，最高级least）
+0891.	lose（lost，lost）
+0912.	make（made，made）
+0914.	man（复men）
+0918.	many（more，most）
+0929.	may（might）
+0932.	mean（meant，meant）
+0937.	meet（met，met）
+0968.	more（many或much的比较级）
+0970.	most（many或much的最高级）
+0974.	mouse（复mice）
+0980.	much（more，most）
+1096.	pay（paid，paid）
+1152.	policeman（复policemen）
+1167.	postman（复postmen）
+1212.	put（put，put）
+1231.	read（read，read）
+1276.	ride（rode，ridden）
+1278.	ring（rang，rung）
+1279.	rise（rose，risen）
+1298.	run（ran，run）
+1316.	say（said，said）
+1334.	see（saw，seen）
+1339.	sell（sold，sold）
+1340.	send（sent，sent）
+1349.	set（set，set）
+1352.	shake（shook，shaken）
+1353.	shall（should）
+1357.	sheep（复sheep）
+1358.	shelf（复shelves）
+1359.	shine（shone，shone）
+1365.	should（shall的过去时态）
+1367.	show（showed，shown；showed，showed）
+1369.	shut（shut，shut）
+1386.	sit（sat，sat）
+1394.	sleep（slept，slept）
+1399.	smell（smelt，smelt）
+1426.	speak（spoke，spoken）
+1433.	spread（spread，spread）
+1438.	stand（stood，stood）
+1445.	steal（stole，stolen）
+1448.	stick（stuck，stuck）
+1462.	strike（struck，struck/stricken）
+1491.	sweep（swept，swept）
+1493.	swim（swam，swum）
+1496.	take（took，taken）
+1505.	teach（taught，taught）
+1513.	tell（told，told）
+1532.	think（thought，thought）
+1539.	throw（threw，thrown）
+1558.	tooth（复teeth）
+1596.	understand（understood，understood）
+1634.	wake（woke，woken）
+1649.	wear（wore，worn）
+1659.	well（better，best）
+1678.	wife（复wives）
+1681.	win（won，won）
+1695.	wolf（复wolves）
+1696.	woman（复women）
+1707.	would（will的过去式）
+1710.	write（wrote，written）
+
+修正释义
+0129.	be	v.	是；成为（原形，其人称和时态形式有am，is，are，was，were，being，been）
+0245.	cent	n.	美分（100	 cents = 1 dollar）
+0370.	dare	v.	（后接不带to的不定式，主要用于疑问，否定或疑问句）敢，敢于
+0650.	get	v.	（用于have或got短语中）具有
+0871.	like	v.	想要（should/would like）
+1510.	teenager	n.	（13-19岁的）青少年，十几岁的少年
+1672.	whom	pron.	谁（who的宾格）
+
+手册中新增：
+adopt
+atmosphere
+bike
+brightly
+calculate
+disappointing
+harbor
+at school
+be poor at
+be similar to
+department store
+
+拆分词组
+0005.	a lot of (lots of)	许多
+0022.	at breakfast / lunch / supper	早/午/晚餐时
+0023.	at first / last	起先；开始的时候/最后；终于
+0025.	at least / most	至少/至多
+0047.	be good / poor at	擅长于/对…比较差
+0070.	by bus/train/plane	乘公共汽车/火车/飞机
+0197.	leave (secondary) school	（中学）毕业
+0200.	less / more than	少于/多于
+0228.	no longer / not … any longer	不再
+0315.	to one's joy / surprise	使某人高兴/惊奇的是
+0318.	turn down / up	（把音量）调低/高
