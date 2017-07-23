@@ -125,7 +125,32 @@
 1707.	would（will的过去式）
 1710.	write（wrote，written）
 
-修正释义
+修正词性错误
+0113.	bad	adj.	糟糕；可惜
+0179.	born	adj.	出生
+0384.	deep	adj.	深
+0474.	else	adv.	别的；其他的
+0529.	extra	adv.	特别的，非常，另外
+0529.	extra	adv.	额外的
+0556.	female	n.	女的；女性的；雌性的
+0603.	forever	adv.	永远；永恒的
+0646.	gently	adv.	轻柔的
+0660.	good	adj.	好；良好
+0680.	half	adj.	半，一半，半个
+0898.	low	adj.	低；矮
+0951.	minus	prep.	负的，减去的
+1002.	neither	adj.	（两者）都不
+1019.	north	n.	北的；朝北的；北方的
+1019.	north	adj.	北；北方；北部
+1047.	on	adj.	在上映
+1053.	open	adj.	开着，开口的；敞开的；营业中的
+1277.	right	adj.	对；正确的；恰当的；右边的
+1351.	several	adj.	几个，数个
+1383.	single	n.	单一的；单个的；单身的
+1498.	tall	n.	高的
+1533.	thirsty	adj.	渴
+
+修正释义中数字和英文
 0129.	be	v.	是；成为（原形，其人称和时态形式有am，is，are，was，were，being，been）
 0245.	cent	n.	美分（100	 cents = 1 dollar）
 0370.	dare	v.	（后接不带to的不定式，主要用于疑问，否定或疑问句）敢，敢于
@@ -133,6 +158,13 @@
 0871.	like	v.	想要（should/would like）
 1510.	teenager	n.	（13-19岁的）青少年，十几岁的少年
 1672.	whom	pron.	谁（who的宾格）
+
+拆复数
+0655.	glass	n.	玻璃；玻璃杯；（复）眼镜
+1084.	parent	n.	父（母），（复）双亲
+1522.	thank	n.	（复）感谢，谢意
+1699.	wood	n.	木头，木材；（复）树林
+
 
 手册中新增：
 adopt
