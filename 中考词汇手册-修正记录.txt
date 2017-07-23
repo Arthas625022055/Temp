@@ -1,3 +1,4 @@
 0001.   adopt   v.  收养，采纳  // 手册上木有,不管，留着
 0217.   bye int.    再见 // 词性不对 interj改为int
 0001.   calculate   v.  计算 // 手册上木有,不管，留着
+0001.   disappointing   adj.    失望的，沮丧的 //手册上木有,不管，留着
